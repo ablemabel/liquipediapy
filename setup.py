@@ -10,7 +10,7 @@ setup(
     description= 'api for liquipedia.net',
     author = 'c00kie17',
     author_email = 'anshul1708@gmail.com',
-    url = 'https://github.com/c00kie17/liquipediapy',
+    url = 'https://github.com/ablemabel/liquipediapy',
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(),
